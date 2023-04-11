@@ -10,3 +10,5 @@ A paper list for Advertising.
 - Wide & Deep Learning for Recommender Systems [[DLRS2016]](https://dl.acm.org/doi/pdf/10.1145/2988450.2988454)
 - Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts [[KDD2018]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007)
 - Bidding Agent Design in the LinkedIn Ad Marketplace [[arXiv2022]](https://arxiv.org/abs/2202.12472)
+- Behavior Sequence Transformer for E-commerce Recommendation in Alibaba [[arXiv2019]](https://arxiv.org/pdf/1905.06874.pdf)
+
