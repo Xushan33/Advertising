@@ -12,4 +12,5 @@ A paper list for Advertising.
 - Bidding Agent Design in the LinkedIn Ad Marketplace [[arXiv2022]](https://arxiv.org/abs/2202.12472)
 - Behavior Sequence Transformer for E-commerce Recommendation in Alibaba [[arXiv2019]](https://arxiv.org/pdf/1905.06874.pdf)
 - Calibrating User Response Predictions in Online Advertising [[ECML PKDD 2020]](https://www.semanticscholar.org/paper/Calibrating-User-Response-Predictions-in-Online-Deng-Wang/678d93dba3003dc30fcfa2e29c93b009834dcd0a)
+- Field-aware Calibration: A Simple and Empirically Strong Method for Reliable Probabilistic Predictions [[WWW 2020]](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380154)
 
