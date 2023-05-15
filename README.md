@@ -13,6 +13,7 @@ A paper list for Advertising.
 - Behavior Sequence Transformer for E-commerce Recommendation in Alibaba [[arXiv2019]](https://arxiv.org/pdf/1905.06874.pdf)
 - Calibrating User Response Predictions in Online Advertising [[ECML PKDD 2020]](https://www.semanticscholar.org/paper/Calibrating-User-Response-Predictions-in-Online-Deng-Wang/678d93dba3003dc30fcfa2e29c93b009834dcd0a)
 - Field-aware Calibration: A Simple and Empirically Strong Method for Reliable Probabilistic Predictions [[WWW 2020]](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380154)
+- MBCT: Tree-Based Feature-Aware Binning for Individual Uncertainty Calibration [[WWW 2022]](https://arxiv.org/abs/2202.04348)
 - Real Negatives Matter: Continuous Training with Real Negatives for Delayed Feedback Modeling [[KDD 2021]](https://dl.acm.org/doi/abs/10.1145/3447548.3467086)
 - A Unified Solution to Constrained Bidding in Online Display Advertising [[KDD 2021]](https://dl.acm.org/doi/10.1145/3447548.3467199)
 
